@@ -36,7 +36,8 @@ CNN-based MRI classifier (92% accuracy), deployed via Flask + Docker with Grad-C
 #### 🧠 [Parkinson's Gait Detection](https://github.com/Aniket-Khedkar/parkinsons-gait-analysis)  
 IoT time-series data + ML forecasting to predict gait freezing, reducing patient readmission risk by 25%.
 
-#### 🧬 [DNA Barcode Analytics](https://github.com/Aniket-Khedkar/dna-barcode-analytics)  
+#### 🧬 [ETL Pipeline for Data Analysis and Visualization](https://github.com/Aniket-Khedkar/etl-pipeline-for-data-analysis-and-visualization
+)  
 Statistical modeling on biodiversity data to identify risk trends and enable conservation insights.
 
 ---

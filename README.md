@@ -53,7 +53,7 @@ Python + SQL ETL pipelines for ERP data, automated reporting in Power BI, reduci
 
 ### 🧱 Data Infrastructure & Optimization
 
-#### 🏗️ [SQL + dbt Warehouse Modeling](https://github.com/Aniket-Khedkar/dbt-snowflake-warehouse)  
+#### 🏗️ [Optimizing Soccer Data Management with PostgreSQL and SQL](https://github.com/Aniket-Khedkar/Optimizing-Soccer-Data-Management-Advanced-Database-Design-and-Analysis)  
 Modular transformation layers built in dbt for Snowflake with CI/CD, data quality checks, and lineage.
 
 #### 🚦 [GNN Route Optimization](https://github.com/Aniket-Khedkar/gnn-route-optimization)  

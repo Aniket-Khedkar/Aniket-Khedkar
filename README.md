@@ -43,7 +43,7 @@ Statistical modeling on biodiversity data to identify risk trends and enable con
 
 ### 📊 Business Intelligence & Reporting
 
-#### 📈 [Looker + Power BI Dashboards](https://github.com/Aniket-Khedkar/looker-analytics-demo)  
+#### 📈 [A Hybrid Matrix Factorization Recommender on MovieLens-25M ](https://github.com/Aniket-Khedkar/A-Hybrid-Matrix-Factorization-Recommender-on-MovieLens-25M)  
 Developed LookML explores and Power BI reports for self-service analytics and ad-hoc insight generation.
 
 #### ⚡ [ERP Reporting Automation](https://github.com/Aniket-Khedkar/erp-automated-reporting)  

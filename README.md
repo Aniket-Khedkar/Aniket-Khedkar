@@ -28,7 +28,6 @@ What I bring is a blend of academic rigor, business context, and real-world exec
 
 ## 📂 Featured Projects
 
-### 🏥 Healthcare & Research Analytics
 
 #### 🔬 [Medical Imaging Deep Learning](https://github.com/Aniket-Khedkar/medical-imaging-cnn)  
 CNN-based MRI classifier (92% accuracy), deployed via Flask + Docker with Grad-CAM explainability.
@@ -39,24 +38,17 @@ IoT time-series data + ML forecasting to predict gait freezing, reducing patient
 #### 🧬 [ETL Pipeline for Data Analysis and Visualization](https://github.com/Aniket-Khedkar/etl-pipeline-for-data-analysis-and-visualization)  
 Statistical modeling on biodiversity data to identify risk trends and enable conservation insights.
 
----
 
-### 📊 Business Intelligence & Reporting
 
 #### 📈 [A Hybrid Matrix Factorization Recommender on MovieLens-25M ](https://github.com/Aniket-Khedkar/A-Hybrid-Matrix-Factorization-Recommender-on-MovieLens-25M)  
 Developed LookML explores and Power BI reports for self-service analytics and ad-hoc insight generation.
 
-#### ⚡ [ERP Reporting Automation](https://github.com/Aniket-Khedkar/erp-automated-reporting)  
-Python + SQL ETL pipelines for ERP data, automated reporting in Power BI, reducing cycle time by 25%.
 
----
-
-### 🧱 Data Infrastructure & Optimization
 
 #### 🏗️ [Optimizing Soccer Data Management with PostgreSQL and SQL](https://github.com/Aniket-Khedkar/Optimizing-Soccer-Data-Management-Advanced-Database-Design-and-Analysis)  
 Modular transformation layers built in dbt for Snowflake with CI/CD, data quality checks, and lineage.
 
-#### 🚦 [GNN Route Optimization](https://github.com/Aniket-Khedkar/gnn-route-optimization)  
+#### 🚦 [GNN Route Optimization](https://github.com/Aniket-Khedkar/Route-optimization-using-Graph-Neural-Networks)  
 Used PyTorch Geometric for graph-based urban logistics optimization, cutting route cost by 18%.
 
 ---
@@ -68,12 +60,6 @@ Used PyTorch Geometric for graph-based urban logistics optimization, cutting rou
 
 ---
 
-## 🧭 Project Roadmap
-
-📌 **Upcoming:**  
-- Healthcare Claims Analysis using SQL + Looker  
-- NLP-Based Market Research (Python + Pandas)  
-- End-to-End Data Pipeline with dbt + Airflow
 
 ---
 

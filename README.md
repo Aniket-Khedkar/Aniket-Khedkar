@@ -76,9 +76,6 @@ Used PyTorch Geometric for graph-based urban logistics optimization, cutting rou
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniket-Khedkar&show_icons=true&theme=radical)
 
 ---
 

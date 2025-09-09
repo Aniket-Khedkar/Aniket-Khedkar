@@ -33,7 +33,7 @@ What I bring is a blend of academic rigor, business context, and real-world exec
 #### 🔬 [Medical Imaging Deep Learning](https://github.com/Aniket-Khedkar/medical-imaging-cnn)  
 CNN-based MRI classifier (92% accuracy), deployed via Flask + Docker with Grad-CAM explainability.
 
-#### 🧠 [Parkinson's Gait Detection](https://github.com/Aniket-Khedkar/parkinsons-gait-analysis)  
+#### 🧠 [Parkinson's Gait Detection](https://github.com/Aniket-Khedkar/Prediction-of-Freezing-of-Gait)  
 IoT time-series data + ML forecasting to predict gait freezing, reducing patient readmission risk by 25%.
 
 #### 🧬 [ETL Pipeline for Data Analysis and Visualization](https://github.com/Aniket-Khedkar/etl-pipeline-for-data-analysis-and-visualization)  
